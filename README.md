@@ -1,4 +1,7 @@
 #  About Me:
+Backend engineer who enjoys solving problems at scale.
+Building with Node.js, Express, and real-time tech.
+Learning by breaking things since 2022. <br>
 I’m currently working on Jobify!<br>I’m looking for help with meaningful open Source contributions<br>I’m planning to learn Web RTC<br>
 
 
